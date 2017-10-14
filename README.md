@@ -1,2 +1,2 @@
 # SpectrumChallenge
-DARPA Challenge Trials
+DARPA Challenge Trial
